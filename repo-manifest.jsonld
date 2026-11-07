@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/asta-plugins/commit/b0d41db14b6b63d6a7dc8a132a86a11c8aceac54",
       "git:hexsha": "b0d41db14b6b63d6a7dc8a132a86a11c8aceac54",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:54:37.461356+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/asta-plugins/commit/3b30f4ccdb9cd2cb96963144bcbbe736550f9e79",
