@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "asta-plugins",
+  "versions": [
+    {
+      "commit": "b0d41db14b6b63d6a7dc8a132a86a11c8aceac54",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:54:37.462144+00:00"
+    }
+  ]
+}
